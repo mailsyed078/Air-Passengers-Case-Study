@@ -1,2 +1,2 @@
-# Passengers-Prediction
-The airline passengers prediction model has been develpoed by using the time series algorithm
+# Air Passengers Case Study
+A classic time series forecasting case study encompasses various time series forecasting methods such as ARIMA, seasonal ARIMA, etc.
